@@ -1,0 +1,3 @@
+,gauge_id,Cat_Area_km2,UTM Zone,Station_name,CWC_Area_km2,total_cat_area_km2,% area deviation with CWC,warm_up_cal_start,warm_up_cal_end,cal_start,cal_end,warm_up_val_start,warm_up_val_end,val_start,val_end,data_start,data_end
+0,Kotni,7025.876973,crs_UTM_44N,Kotni,6990,7020.37025557197,0.434481481716311,1980-01-01,1982-12-31,1983-01-01,1992-12-31,1993-01-01,1995-12-31,1996-01-01,2000-12-31,1980,2018
+1,GokakFalls,2824.54883437689,crs_UTM_43N,GokakFalls,2770,2824.54883437689,1.96927199916571,1985-01-01,1987-12-31,1988-01-01,1997-12-31,1998-01-01,2000-12-31,2001-01-01,2005-12-31,1980,2005
